@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "223648767420",
+    "project_id": "emergency-alert-app-bae0a",
+    "storage_bucket": "emergency-alert-app-bae0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223648767420:android:25050611f87134f87ddfb9",
+        "android_client_info": {
+          "package_name": "com.example.emergency_alert_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223648767420-2p14564t5735b4n0iq5oh65q97afq7pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emergency_alert_app",
+            "certificate_hash": "74eb40ca2130e432f8d3eb0489c1955c534acad2"
+          }
+        },
+        {
+          "client_id": "223648767420-sit4bdavteepelbjg38mv1rt11701tta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsSC4wf7sUMEvokcAnAp3fBwJxLQwmns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223648767420-sit4bdavteepelbjg38mv1rt11701tta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223648767420-22i2b92j8ltlmkg7d5bh34m7vvicv1ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emergencyAlertApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
